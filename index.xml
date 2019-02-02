@@ -9,5 +9,63 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Orgullo y Satisfacción</title>
+      <link>/project/orgulloysatisfa/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/project/orgulloysatisfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aracne</title>
+      <link>/project/aracne/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 -0500</pubDate>
+      
+      <guid>/project/aracne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Todo lo que un filólogo no sabe que sabe hacer</title>
+      <link>/talk/example/</link>
+      <pubDate>Wed, 18 Dec 2013 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/example/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;#Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+#&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/v994qTtZvrk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AZRAEL</title>
+      <link>/project/azrael/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 -0400</pubDate>
+      
+      <guid>/project/azrael/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
