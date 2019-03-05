@@ -6,17 +6,71 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Elena Álvarez Mellado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 04 Mar 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Acceptance speech for the Miguel Delibes National Journalism Award</title>
+      <link>/talk/valladolid/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/valladolid/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Interview for the Miguel Delibes Journalism Award</title>
+      <link>/talk/apv/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/apv/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Proyecto Aracne</title>
+      <link>/talk/aracne/</link>
+      <pubDate>Sun, 24 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/aracne/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Desayuno con Molino de Ideas</title>
+      <link>/talk/desayuno/</link>
+      <pubDate>Sun, 18 Oct 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/desayuno/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Introducing the Natural Language Processing track</title>
+      <link>/talk/apidays/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/apidays/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Overcoming challenges in understanding text automatically</title>
+      <link>/talk/papis/</link>
+      <pubDate>Tue, 18 Nov 2014 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/papis/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Todo lo que un filólogo no sabe que sabe hacer</title>
-      <link>/talk/example/</link>
+      <link>/talk/zaragoza/</link>
       <pubDate>Wed, 18 Dec 2013 00:00:00 -0500</pubDate>
       
-      <guid>/talk/example/</guid>
+      <guid>/talk/zaragoza/</guid>
       <description>##Click on the Slides button above to view the built-in slides feature. #
   Slides can be added in a few ways:
  Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>

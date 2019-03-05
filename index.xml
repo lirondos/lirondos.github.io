@@ -19,6 +19,48 @@
     </item>
     
     <item>
+      <title>Acceptance speech for the Miguel Delibes National Journalism Award</title>
+      <link>/talk/valladolid/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/valladolid/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/oBjx1iDO8jc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Interview for the Miguel Delibes Journalism Award</title>
+      <link>/talk/apv/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/apv/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/aTTTawkn0Uc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Proyecto Aracne</title>
+      <link>/talk/aracne/</link>
+      <pubDate>Sun, 24 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/aracne/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Be_o-y10bj8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Aracne</title>
       <link>/project/aracne/</link>
       <pubDate>Thu, 31 Dec 2015 00:00:00 -0500</pubDate>
@@ -28,11 +70,53 @@
     </item>
     
     <item>
+      <title>Desayuno con Molino de Ideas</title>
+      <link>/talk/desayuno/</link>
+      <pubDate>Sun, 18 Oct 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/desayuno/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/133725952&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Introducing the Natural Language Processing track</title>
+      <link>/talk/apidays/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/talk/apidays/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/yng3ug9OcTY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Overcoming challenges in understanding text automatically</title>
+      <link>/talk/papis/</link>
+      <pubDate>Tue, 18 Nov 2014 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/papis/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/wsnsMhCt8lo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Todo lo que un filólogo no sabe que sabe hacer</title>
-      <link>/talk/example/</link>
+      <link>/talk/zaragoza/</link>
       <pubDate>Wed, 18 Dec 2013 00:00:00 -0500</pubDate>
       
-      <guid>/talk/example/</guid>
+      <guid>/talk/zaragoza/</guid>
       <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;p&gt;#Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

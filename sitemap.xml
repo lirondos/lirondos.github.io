@@ -12,6 +12,30 @@
     
     <url>
     
+      <loc>/talk/valladolid/</loc>
+      <lastmod>2018-01-24T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/apv/</loc>
+      <lastmod>2017-12-18T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2017-03-04T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -28,8 +52,8 @@
     
     <url>
     
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>/talk/aracne/</loc>
+      <lastmod>2016-01-24T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -44,7 +68,31 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
+      <loc>/talk/desayuno/</loc>
+      <lastmod>2015-10-18T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/apidays/</loc>
+      <lastmod>2015-06-04T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/papis/</loc>
+      <lastmod>2014-11-18T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/zaragoza/</loc>
       <lastmod>2013-12-18T00:00:00-05:00</lastmod>
     </url>
     
