@@ -6,15 +6,24 @@
     <description>Recent content in Projects on Elena Álvarez Mellado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Figurative language classification</title>
+      <link>/project/figurativelanguage/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/project/figurativelanguage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Orgullo y Satisfacción</title>
       <link>/project/orgulloysatisfa/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/orgulloysatisfa/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>Subtitles Corpus</title>
       <link>/project/subtitles/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
       
       <guid>/project/subtitles/</guid>
       <description></description>
@@ -35,15 +44,6 @@
       <pubDate>Thu, 31 Dec 2015 00:00:00 -0500</pubDate>
       
       <guid>/project/aracne/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Figurative language classification</title>
-      <link>/project/figurativelanguage/</link>
-      <pubDate>Thu, 31 Dec 2015 00:00:00 -0500</pubDate>
-      
-      <guid>/project/figurativelanguage/</guid>
       <description></description>
     </item>
     

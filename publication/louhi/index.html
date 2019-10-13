@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -30,10 +28,10 @@
   
     
   
-  <meta name="description" content="Elena Álvarez Mellado&#39;s page">
+  <meta name="description" content="Predicting which patients are more likely to be readmitted to a hospital within 30 days after discharge is a valuable piece of information in clinical decision-making. Building a successful readmission risk classifier based on the content of Electronic Health Records (EHRs) has proved, however, to be a challenging task. Previously explored features include mainly structured information, such as sociodemographic data, comorbidity codes and physiological variables. In this paper we assess incorporating additional clinically interpretable NLP-based features such as topic extraction and clinical sentiment analysis to predict early readmission risk in psychiatry patients.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/tags/demo/">
+  <link rel="alternate" hreflang="en-us" href="/publication/louhi/">
 
   
 
@@ -99,15 +97,15 @@
   
 
   
-  <link rel="alternate" href="/tags/demo/index.xml" type="application/rss+xml" title="Elena Álvarez Mellado">
-  <link rel="feed" href="/tags/demo/index.xml" type="application/rss+xml" title="Elena Álvarez Mellado">
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Elena Álvarez Mellado">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Elena Álvarez Mellado">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/tags/demo/">
+  <link rel="canonical" href="/publication/louhi/">
 
   
   
@@ -122,19 +120,21 @@
   <meta property="twitter:creator" content="@lirondos">
   
   <meta property="og:site_name" content="Elena Álvarez Mellado">
-  <meta property="og:url" content="/tags/demo/">
-  <meta property="og:title" content="Demo | Elena Álvarez Mellado">
-  <meta property="og:description" content="Elena Álvarez Mellado&#39;s page"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/publication/louhi/">
+  <meta property="og:title" content="Assessing the Efficacy of Clinical Sentiment Analysis and Topic Extraction in Psychiatric Readmission Risk Prediction | Elena Álvarez Mellado">
+  <meta property="og:description" content="Predicting which patients are more likely to be readmitted to a hospital within 30 days after discharge is a valuable piece of information in clinical decision-making. Building a successful readmission risk classifier based on the content of Electronic Health Records (EHRs) has proved, however, to be a challenging task. Previously explored features include mainly structured information, such as sociodemographic data, comorbidity codes and physiological variables. In this paper we assess incorporating additional clinically interpretable NLP-based features such as topic extraction and clinical sentiment analysis to predict early readmission risk in psychiatry patients."><meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2018-12-20T00:00:00-05:00">
+  <meta property="article:published_time" content="2019-08-10T00:00:00-04:00">
+  
+  <meta property="article:modified_time" content="2019-08-10T00:00:00-04:00">
   
 
   
 
   
 
-  <title>Demo | Elena Álvarez Mellado</title>
+  <title>Assessing the Efficacy of Clinical Sentiment Analysis and Topic Extraction in Psychiatric Readmission Risk Prediction | Elena Álvarez Mellado</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -369,8 +369,9 @@
   </div>
 </nav>
 
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
-
+  
 
 
 
@@ -386,65 +387,275 @@
   
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Assessing the Efficacy of Clinical Sentiment Analysis and Topic Extraction in Psychiatric Readmission Risk Prediction</h1>
+
+  
+
+  
+    
+
+
+<meta content="2019-08-10 00:00:00 -0400 EDT" itemprop="datePublished">
+<meta content="2019-08-10 00:00:00 -0400 EDT" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/elena-%C3%A1lvarez-mellado/">Elena Álvarez-Mellado</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/eben-holderness/">Eben Holderness</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/nicholas-miller/">Nicholas Miller</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/fyonn-dhang/">Fyonn Dhang</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/philip-cawkwell/">Philip Cawkwell</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/kirsten-bolton/">Kirsten Bolton</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/james-pustejovsky/">James Pustejovsky</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/mei-hua-hall/">Mei-Hua Hall</a>
+      </span>
+    </span>
+    
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>August 2019</time>
+  </span>
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Assessing%20the%20Efficacy%20of%20Clinical%20Sentiment%20Analysis%20and%20Topic%20Extraction%20in%20Psychiatric%20Readmission%20Risk%20Prediction&amp;url=%2fpublication%2flouhi%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fpublication%2flouhi%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2flouhi%2f&amp;title=Assessing%20the%20Efficacy%20of%20Clinical%20Sentiment%20Analysis%20and%20Topic%20Extraction%20in%20Psychiatric%20Readmission%20Risk%20Prediction"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fpublication%2flouhi%2f&amp;title=Assessing%20the%20Efficacy%20of%20Clinical%20Sentiment%20Analysis%20and%20Topic%20Extraction%20in%20Psychiatric%20Readmission%20Risk%20Prediction"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Assessing%20the%20Efficacy%20of%20Clinical%20Sentiment%20Analysis%20and%20Topic%20Extraction%20in%20Psychiatric%20Readmission%20Risk%20Prediction&amp;body=%2fpublication%2flouhi%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/1910.04006.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Predicting which patients are more likely to be readmitted to a hospital within 30 days after discharge is a valuable piece of information in clinical decision-making. Building a successful readmission risk classifier based on the content of Electronic Health Records (EHRs) has proved, however, to be a challenging task. Previously explored features include mainly structured information, such as sociodemographic data, comorbidity codes and physiological variables. In this paper we assess incorporating additional clinically interpretable NLP-based features such as topic extraction and clinical sentiment analysis to predict early readmission risk in psychiatry patients.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">To be presented at the Tenth International Workshop on Health Text Mining and Information Analysis (LOUHI) at EMNLP-IJCNLP 2019 in Hong Kong.</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Demo</h1>
-
   
 
-  
+
+
+
+
+
+
+
+  </div>
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-
-  
-  
-  <div>
-    <h2><a href="/project/orgulloysatisfa/">Orgullo y Satisfacción</a></h2>
-    <div class="article-style">
-      
-      A corpus analysis in Python of the Christmas speeches delivered by the king of Spain since 1975 
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/subtitles/">Subtitles Corpus</a></h2>
-    <div class="article-style">
-      
-      A corpus of Spanish subtitles from LOTR, Star Wars, OITNB, GoT, HIMYM, etc.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/aracne/">Aracne</a></h2>
-    <div class="article-style">
-      
-      A corpus linguistics project supported by Fundeu on the evolution of the Spanish language on the media during the 20th century. With Leticia Martín-Fuertes and Molino de Ideas.
-      
-    </div>
-  </div>
-  
-  <div>
-    <h2><a href="/project/azrael/">AZRAEL</a></h2>
-    <div class="article-style">
-      
-      A rule-based automatic language detector based on the syllable structure of words. Current supported languages: Spanish, French, Italian, Portuguese, Catalan, Latin and Basque.
-      
-    </div>
-  </div>
-  
-
-  
-
-</div>
 <div class="container">
   <footer class="site-footer">
   
@@ -500,6 +711,9 @@
 
     
     
+    
+    <script src="/js/mathjax-config.js"></script>
+    
 
     
     
@@ -517,6 +731,8 @@
       
 
       
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 
@@ -593,6 +809,4 @@
 
   </body>
 </html>
-
-
 

@@ -4,16 +4,32 @@
     
     <url>
     
-      <loc>/project/orgulloysatisfa/</loc>
-      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+      <loc>/publication/louhi/</loc>
+      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>/project/subtitles/</loc>
-      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+      <loc>/project/figurativelanguage/</loc>
+      <lastmod>2019-05-31T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/orgulloysatisfa/</loc>
+      <lastmod>2018-12-20T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/aracne/</loc>
+      <lastmod>2018-11-20T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -52,6 +68,14 @@
     
     <url>
     
+      <loc>/project/subtitles/</loc>
+      <lastmod>2017-02-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -77,14 +101,6 @@
     <url>
     
       <loc>/project/aracne/</loc>
-      <lastmod>2015-12-31T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/figurativelanguage/</loc>
       <lastmod>2015-12-31T00:00:00-05:00</lastmod>
     </url>
     
@@ -139,6 +155,15 @@
     
     <url>
     
+      <loc>/publication_types/1/</loc>
+      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/</loc>
       <priority>0</priority>
     </url>
@@ -164,7 +189,16 @@
     <url>
     
       <loc>/tags/demo/</loc>
-      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-20T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/eben-holderness/</loc>
+      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -181,8 +215,80 @@
     
     <url>
     
+      <loc>/authors/elena-%C3%A1lvarez-mellado/</loc>
+      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/fyonn-dhang/</loc>
+      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/james-pustejovsky/</loc>
+      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kirsten-bolton/</loc>
+      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/leticia-mart%C3%ADn-fuertes-moreno/</loc>
+      <lastmod>2018-11-20T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/mei-hua-hall/</loc>
+      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/nicholas-miller/</loc>
+      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/philip-cawkwell/</loc>
+      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/</loc>
-      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-05-31T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -191,6 +297,7 @@
     <url>
     
       <loc>/publication_types/</loc>
+      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -199,7 +306,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2019-02-01T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

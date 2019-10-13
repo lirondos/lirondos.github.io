@@ -10,5 +10,86 @@
 	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Eben Holderness</title>
+      <link>/authors/eben-holderness/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/eben-holderness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elena Álvarez-Mellado</title>
+      <link>/authors/elena-%C3%A1lvarez-mellado/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/elena-%C3%A1lvarez-mellado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fyonn Dhang</title>
+      <link>/authors/fyonn-dhang/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/fyonn-dhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Pustejovsky</title>
+      <link>/authors/james-pustejovsky/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/james-pustejovsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kirsten Bolton</title>
+      <link>/authors/kirsten-bolton/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/kirsten-bolton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leticia Martín-Fuertes Moreno</title>
+      <link>/authors/leticia-mart%C3%ADn-fuertes-moreno/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/authors/leticia-mart%C3%ADn-fuertes-moreno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mei-Hua Hall</title>
+      <link>/authors/mei-hua-hall/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/mei-hua-hall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Miller</title>
+      <link>/authors/nicholas-miller/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/nicholas-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip Cawkwell</title>
+      <link>/authors/philip-cawkwell/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/authors/philip-cawkwell/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
