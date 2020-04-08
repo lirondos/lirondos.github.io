@@ -10,7 +10,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A corpus of Spanish political speeches from 1937 to 2018</title>
+      <title>An Annotated Corpus of Emerging Anglicisms in Spanish Newspaper Headlines</title>
+      <link>/publication/lazaro/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/lazaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A corpus of Spanish political speeches from 1937 to 2019</title>
       <link>/publication/political/</link>
       <pubDate>Sun, 02 Feb 2020 00:00:00 -0500</pubDate>
       
@@ -155,20 +164,6 @@
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/yng3ug9OcTY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Overcoming challenges in understanding text automatically</title>
-      <link>/talk/papis/</link>
-      <pubDate>Tue, 18 Nov 2014 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/papis/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/wsnsMhCt8lo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 </description>
