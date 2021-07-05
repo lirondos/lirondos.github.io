@@ -6,13 +6,22 @@
     <description>Recent content in Elena Álvarez Mellado on Elena Álvarez Mellado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Twitch: Divulgación lingüística en la red</title>
+      <link>/talk/lengwitch/</link>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/lengwitch/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Extracting English Lexical Borrowings from Spanish Newswire</title>
       <link>/publication/scil/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0100</pubDate>
       
       <guid>/publication/scil/</guid>
       <description></description>
@@ -21,7 +30,7 @@
     <item>
       <title>ADoBo</title>
       <link>/project/adobo/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
       
       <guid>/project/adobo/</guid>
       <description></description>
@@ -30,7 +39,7 @@
     <item>
       <title>Caravaggio</title>
       <link>/project/caravaggio/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
       
       <guid>/project/caravaggio/</guid>
       <description></description>
@@ -39,7 +48,7 @@
     <item>
       <title>Morssa</title>
       <link>/project/morssa/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>/project/morssa/</guid>
       <description></description>
@@ -48,7 +57,7 @@
     <item>
       <title>Two models for Named Entity Recognition in Spanish: submission for the CAPITEL Shared Task at IberLEF 2020</title>
       <link>/publication/iberlef/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
       
       <guid>/publication/iberlef/</guid>
       <description></description>
@@ -57,7 +66,7 @@
     <item>
       <title>Lázaro: An Extractor of Emergent Anglicisms in Spanish Newswire</title>
       <link>/publication/lazaro/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0200</pubDate>
       
       <guid>/publication/lazaro/</guid>
       <description></description>
@@ -66,7 +75,7 @@
     <item>
       <title>Observatorio Lázaro</title>
       <link>/project/lazaro/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0200</pubDate>
       
       <guid>/project/lazaro/</guid>
       <description></description>
@@ -75,7 +84,7 @@
     <item>
       <title>An Annotated Corpus of Emerging Anglicisms in Spanish Newspaper Headlines</title>
       <link>/publication/anglicisms/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0100</pubDate>
       
       <guid>/publication/anglicisms/</guid>
       <description></description>
@@ -84,7 +93,7 @@
     <item>
       <title>A corpus of Spanish political speeches from 1937 to 2019</title>
       <link>/publication/political/</link>
-      <pubDate>Sun, 02 Feb 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0100</pubDate>
       
       <guid>/publication/political/</guid>
       <description></description>
@@ -93,7 +102,7 @@
     <item>
       <title>Corpus of political speeches</title>
       <link>/project/orgulloysatisfa/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/orgulloysatisfa/</guid>
       <description></description>
@@ -102,7 +111,7 @@
     <item>
       <title>NER4Podcasts</title>
       <link>/project/ner4podcasts/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0100</pubDate>
       
       <guid>/project/ner4podcasts/</guid>
       <description></description>
@@ -111,7 +120,7 @@
     <item>
       <title>Assessing the Efficacy of Clinical Sentiment Analysis and Topic Extraction in Psychiatric Readmission Risk Prediction</title>
       <link>/publication/louhi/</link>
-      <pubDate>Sat, 10 Aug 2019 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0200</pubDate>
       
       <guid>/publication/louhi/</guid>
       <description></description>
@@ -120,7 +129,7 @@
     <item>
       <title>Figurative language classification</title>
       <link>/project/figurativelanguage/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0200</pubDate>
       
       <guid>/project/figurativelanguage/</guid>
       <description></description>
@@ -129,24 +138,10 @@
     <item>
       <title>Aracne: estudio de la variación lingüística en la prensa española entre 1914 y 2014 (Aracne: a study of language change in the Spanish press between 1914 and 2014)</title>
       <link>/publication/aracne/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/publication/aracne/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Acceptance speech for Premio Nacional de Periodismo Miguel Delibes</title>
-      <link>/talk/valladolid/</link>
-      <pubDate>Fri, 26 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/valladolid/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/oBjx1iDO8jc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-</description>
     </item>
     
   </channel>

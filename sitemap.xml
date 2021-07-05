@@ -4,8 +4,16 @@
     
     <url>
     
+      <loc>/talk/lengwitch/</loc>
+      <lastmod>2021-06-13T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/scil/</loc>
-      <lastmod>2021-02-10T00:00:00-05:00</lastmod>
+      <lastmod>2021-02-10T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -13,7 +21,7 @@
     <url>
     
       <loc>/project/adobo/</loc>
-      <lastmod>2021-02-01T00:00:00-05:00</lastmod>
+      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -21,7 +29,7 @@
     <url>
     
       <loc>/project/caravaggio/</loc>
-      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -29,7 +37,7 @@
     <url>
     
       <loc>/project/morssa/</loc>
-      <lastmod>2020-09-30T00:00:00-04:00</lastmod>
+      <lastmod>2020-09-30T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -37,7 +45,7 @@
     <url>
     
       <loc>/publication/iberlef/</loc>
-      <lastmod>2020-06-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-06-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -45,7 +53,7 @@
     <url>
     
       <loc>/publication/lazaro/</loc>
-      <lastmod>2020-05-15T00:00:00-04:00</lastmod>
+      <lastmod>2020-05-15T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -53,7 +61,7 @@
     <url>
     
       <loc>/project/lazaro/</loc>
-      <lastmod>2020-05-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-05-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -61,7 +69,7 @@
     <url>
     
       <loc>/publication/anglicisms/</loc>
-      <lastmod>2020-03-02T00:00:00-05:00</lastmod>
+      <lastmod>2020-03-02T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -69,7 +77,7 @@
     <url>
     
       <loc>/publication/political/</loc>
-      <lastmod>2020-02-02T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-02T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -77,7 +85,7 @@
     <url>
     
       <loc>/project/orgulloysatisfa/</loc>
-      <lastmod>2019-12-20T00:00:00-05:00</lastmod>
+      <lastmod>2019-12-20T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -85,7 +93,7 @@
     <url>
     
       <loc>/project/ner4podcasts/</loc>
-      <lastmod>2019-12-20T00:00:00-05:00</lastmod>
+      <lastmod>2019-12-20T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -93,7 +101,7 @@
     <url>
     
       <loc>/publication/louhi/</loc>
-      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <lastmod>2019-08-10T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -101,7 +109,7 @@
     <url>
     
       <loc>/project/figurativelanguage/</loc>
-      <lastmod>2019-05-31T00:00:00-04:00</lastmod>
+      <lastmod>2019-05-31T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -109,7 +117,7 @@
     <url>
     
       <loc>/publication/aracne/</loc>
-      <lastmod>2018-11-20T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-20T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -117,23 +125,7 @@
     <url>
     
       <loc>/talk/valladolid/</loc>
-      <lastmod>2018-01-26T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/conlalenguafuera/</loc>
-      <lastmod>2018-01-23T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/uned/</loc>
-      <lastmod>2018-01-23T00:00:00-05:00</lastmod>
+      <lastmod>2018-01-26T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -141,7 +133,31 @@
     <url>
     
       <loc>/talk/grijelmo/</loc>
-      <lastmod>2018-01-23T00:00:00-05:00</lastmod>
+      <lastmod>2018-01-23T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/uned/</loc>
+      <lastmod>2018-01-23T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/conlalenguafuera/</loc>
+      <lastmod>2018-01-23T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/franco/</loc>
+      <lastmod>2018-01-23T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -149,7 +165,7 @@
     <url>
     
       <loc>/talk/apv/</loc>
-      <lastmod>2017-12-18T00:00:00-05:00</lastmod>
+      <lastmod>2017-12-18T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -157,7 +173,7 @@
     <url>
     
       <loc>/talk/</loc>
-      <lastmod>2017-03-04T00:00:00-05:00</lastmod>
+      <lastmod>2017-03-04T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -165,7 +181,7 @@
     <url>
     
       <loc>/project/subtitles/</loc>
-      <lastmod>2017-02-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-02-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -173,7 +189,7 @@
     <url>
     
       <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -181,7 +197,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -189,7 +205,7 @@
     <url>
     
       <loc>/talk/aracne/</loc>
-      <lastmod>2016-01-24T00:00:00-05:00</lastmod>
+      <lastmod>2016-01-24T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -197,7 +213,7 @@
     <url>
     
       <loc>/project/aracne/</loc>
-      <lastmod>2015-12-31T00:00:00-05:00</lastmod>
+      <lastmod>2015-12-31T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -205,7 +221,7 @@
     <url>
     
       <loc>/talk/desayuno/</loc>
-      <lastmod>2015-10-18T00:00:00-04:00</lastmod>
+      <lastmod>2015-10-18T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -213,7 +229,7 @@
     <url>
     
       <loc>/talk/apidays/</loc>
-      <lastmod>2015-06-04T00:00:00-04:00</lastmod>
+      <lastmod>2015-06-04T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -221,7 +237,7 @@
     <url>
     
       <loc>/talk/papis/</loc>
-      <lastmod>2014-11-18T00:00:00-05:00</lastmod>
+      <lastmod>2014-11-18T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -229,7 +245,7 @@
     <url>
     
       <loc>/talk/zaragoza/</loc>
-      <lastmod>2013-12-18T00:00:00-05:00</lastmod>
+      <lastmod>2013-12-18T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -237,7 +253,7 @@
     <url>
     
       <loc>/publication/azrael/</loc>
-      <lastmod>2009-11-10T00:00:00-05:00</lastmod>
+      <lastmod>2009-11-10T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -245,7 +261,7 @@
     <url>
     
       <loc>/project/azrael/</loc>
-      <lastmod>2009-09-01T00:00:00-04:00</lastmod>
+      <lastmod>2009-09-01T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -260,7 +276,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2021-02-10T00:00:00-05:00</lastmod>
+      <lastmod>2021-02-10T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -269,7 +285,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-11-20T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -278,7 +294,7 @@
     <url>
     
       <loc>/publication_types/4/</loc>
-      <lastmod>2020-05-15T00:00:00-04:00</lastmod>
+      <lastmod>2020-05-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -311,7 +327,7 @@
     <url>
     
       <loc>/tags/demo/</loc>
-      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -320,7 +336,7 @@
     <url>
     
       <loc>/authors/eben-holderness/</loc>
-      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <lastmod>2019-08-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -329,7 +345,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -338,7 +354,7 @@
     <url>
     
       <loc>/authors/elena-%C3%A1lvarez-mellado/</loc>
-      <lastmod>2021-02-10T00:00:00-05:00</lastmod>
+      <lastmod>2021-02-10T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -347,7 +363,7 @@
     <url>
     
       <loc>/authors/elena-%C3%A1lvarez-mellado.-advisor-constantine-lignos/</loc>
-      <lastmod>2020-05-15T00:00:00-04:00</lastmod>
+      <lastmod>2020-05-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -356,7 +372,7 @@
     <url>
     
       <loc>/authors/fyonn-dhang/</loc>
-      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <lastmod>2019-08-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -365,7 +381,7 @@
     <url>
     
       <loc>/authors/james-pustejovsky/</loc>
-      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <lastmod>2019-08-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -374,7 +390,7 @@
     <url>
     
       <loc>/authors/kirsten-bolton/</loc>
-      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <lastmod>2019-08-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -383,7 +399,7 @@
     <url>
     
       <loc>/authors/leticia-mart%C3%ADn-fuertes-moreno/</loc>
-      <lastmod>2018-11-20T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -392,7 +408,7 @@
     <url>
     
       <loc>/authors/mei-hua-hall/</loc>
-      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <lastmod>2019-08-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -401,7 +417,7 @@
     <url>
     
       <loc>/authors/nicholas-miller/</loc>
-      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <lastmod>2019-08-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -410,7 +426,7 @@
     <url>
     
       <loc>/authors/philip-cawkwell/</loc>
-      <lastmod>2019-08-10T00:00:00-04:00</lastmod>
+      <lastmod>2019-08-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -419,7 +435,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2021-02-01T00:00:00-05:00</lastmod>
+      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -428,7 +444,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2021-02-10T00:00:00-05:00</lastmod>
+      <lastmod>2021-02-10T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -437,7 +453,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
