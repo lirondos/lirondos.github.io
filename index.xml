@@ -37,6 +37,33 @@
     </item>
     
     <item>
+      <title>Radio interview: La Tarde de la COPE</title>
+      <link>/talk/cope/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/talk/cope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio interview: Julia en la Onda</title>
+      <link>/talk/jelo/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/jelo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El País: 20 anglicismos nuevos cada día</title>
+      <link>/talk/grijelmo/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/grijelmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Caravaggio</title>
       <link>/project/caravaggio/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
@@ -51,6 +78,15 @@
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>/project/morssa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast: Interview at Con la lengua fuera</title>
+      <link>/talk/conlalenguafuera/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/talk/conlalenguafuera/</guid>
       <description></description>
     </item>
     
@@ -100,47 +136,11 @@
     </item>
     
     <item>
-      <title>Corpus of political speeches</title>
-      <link>/project/orgulloysatisfa/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0100</pubDate>
+      <title>elDiario.es: Así han evolucionado los discursos de Navidad</title>
+      <link>/talk/franco/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0100</pubDate>
       
-      <guid>/project/orgulloysatisfa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NER4Podcasts</title>
-      <link>/project/ner4podcasts/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/project/ner4podcasts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessing the Efficacy of Clinical Sentiment Analysis and Topic Extraction in Psychiatric Readmission Risk Prediction</title>
-      <link>/publication/louhi/</link>
-      <pubDate>Sat, 10 Aug 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/louhi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Figurative language classification</title>
-      <link>/project/figurativelanguage/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/project/figurativelanguage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aracne: estudio de la variación lingüística en la prensa española entre 1914 y 2014 (Aracne: a study of language change in the Spanish press between 1914 and 2014)</title>
-      <link>/publication/aracne/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/aracne/</guid>
+      <guid>/talk/franco/</guid>
       <description></description>
     </item>
     
