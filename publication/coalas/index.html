@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="In this work, we present: (1) a corpus of European Spanish newswire annotated with anglicisms; (2) a sequence labeling model to extract English lexical borrowings (or anglicisms) from Spanish newswire; and (3) a tracking corpus of anglicism usage in the Spanish press.">
+  <meta name="description" content="This work presents a new resource for borrowing identification and analyzes the performance and errors of several models on this task. We introduce a new annotated corpus of Spanish newswire rich in unassimilated lexical borrowings—words from one language that are introduced into another without orthographic adaptation—and use it to evaluate how several sequence labeling models (CRF, BiLSTM-CRF, and Transformer-based models) perform. The corpus contains 370,000 tokens and is larger, more borrowing-dense, OOV-rich, and topic-varied than previous corpora available for this task. Our results show that a BiLSTM-CRF model fed with subword embeddings along with either Transformerbased embeddings pretrained on codeswitched data or a combination of contextualized word embeddings outperforms results obtained by a multilingual BERT-based model.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/scil/">
+  <link rel="alternate" hreflang="en-us" href="/publication/coalas/">
 
   
 
@@ -119,7 +119,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/scil/">
+  <link rel="canonical" href="/publication/coalas/">
 
   
   
@@ -134,21 +134,21 @@
   <meta property="twitter:creator" content="@lirondos">
   
   <meta property="og:site_name" content="Elena Álvarez Mellado">
-  <meta property="og:url" content="/publication/scil/">
-  <meta property="og:title" content="Extracting English Lexical Borrowings from Spanish Newswire | Elena Álvarez Mellado">
-  <meta property="og:description" content="In this work, we present: (1) a corpus of European Spanish newswire annotated with anglicisms; (2) a sequence labeling model to extract English lexical borrowings (or anglicisms) from Spanish newswire; and (3) a tracking corpus of anglicism usage in the Spanish press."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/publication/coalas/">
+  <meta property="og:title" content="Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling | Elena Álvarez Mellado">
+  <meta property="og:description" content="This work presents a new resource for borrowing identification and analyzes the performance and errors of several models on this task. We introduce a new annotated corpus of Spanish newswire rich in unassimilated lexical borrowings—words from one language that are introduced into another without orthographic adaptation—and use it to evaluate how several sequence labeling models (CRF, BiLSTM-CRF, and Transformer-based models) perform. The corpus contains 370,000 tokens and is larger, more borrowing-dense, OOV-rich, and topic-varied than previous corpora available for this task. Our results show that a BiLSTM-CRF model fed with subword embeddings along with either Transformerbased embeddings pretrained on codeswitched data or a combination of contextualized word embeddings outperforms results obtained by a multilingual BERT-based model."><meta property="og:image" content="/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2021-02-10T00:00:00&#43;01:00">
+  <meta property="article:published_time" content="2022-04-01T00:00:00&#43;02:00">
   
-  <meta property="article:modified_time" content="2021-02-10T00:00:00&#43;01:00">
-  
-
+  <meta property="article:modified_time" content="2022-04-01T00:00:00&#43;02:00">
   
 
   
 
-  <title>Extracting English Lexical Borrowings from Spanish Newswire | Elena Álvarez Mellado</title>
+  
+
+  <title>Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling | Elena Álvarez Mellado</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -423,7 +423,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Extracting English Lexical Borrowings from Spanish Newswire</h1>
+  <h1 itemprop="name">Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling</h1>
 
   
 
@@ -431,8 +431,8 @@
     
 
 
-<meta content="2021-02-10 00:00:00 &#43;0100 CET" itemprop="datePublished">
-<meta content="2021-02-10 00:00:00 &#43;0100 CET" itemprop="dateModified">
+<meta content="2022-04-01 00:00:00 &#43;0200 CEST" itemprop="datePublished">
+<meta content="2022-04-01 00:00:00 &#43;0200 CEST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -443,7 +443,12 @@
   <div>
     <span itemscope itemprop="author" itemtype="http://schema.org/Person">
       <span itemprop="name">
-        <a href="/authors/elena-%C3%A1lvarez-mellado/">Elena Álvarez-Mellado</a>
+        <a href="/authors/elena-%C3%A1lvarez-mellado/">Elena Álvarez Mellado</a>
+      </span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">
+        <a href="/authors/constatine-lignos/">Constatine Lignos</a>
       </span>
     </span>
     
@@ -457,7 +462,7 @@
     
       
     
-    <time>February 2021</time>
+    <time>April 2022</time>
   </span>
   
 
@@ -474,35 +479,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Extracting%20English%20Lexical%20Borrowings%20from%20Spanish%20Newswire&amp;url=%2fpublication%2fscil%2f"
+         href="https://twitter.com/intent/tweet?text=Detecting%20Unassimilated%20Borrowings%20in%20Spanish%3a%20An%20Annotated%20Corpus%20and%20Approaches%20to%20Modeling&amp;url=%2fpublication%2fcoalas%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fscil%2f"
+         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fcoalas%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fscil%2f&amp;title=Extracting%20English%20Lexical%20Borrowings%20from%20Spanish%20Newswire"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fcoalas%2f&amp;title=Detecting%20Unassimilated%20Borrowings%20in%20Spanish%3a%20An%20Annotated%20Corpus%20and%20Approaches%20to%20Modeling"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fscil%2f&amp;title=Extracting%20English%20Lexical%20Borrowings%20from%20Spanish%20Newswire"
+         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fcoalas%2f&amp;title=Detecting%20Unassimilated%20Borrowings%20in%20Spanish%3a%20An%20Annotated%20Corpus%20and%20Approaches%20to%20Modeling"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Extracting%20English%20Lexical%20Borrowings%20from%20Spanish%20Newswire&amp;body=%2fpublication%2fscil%2f">
+         href="mailto:?subject=Detecting%20Unassimilated%20Borrowings%20in%20Spanish%3a%20An%20Annotated%20Corpus%20and%20Approaches%20to%20Modeling&amp;body=%2fpublication%2fcoalas%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -544,31 +549,31 @@
   
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://aclanthology.org/2021.scil-1.40/" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2203.16169.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 
-
-
-
-  
-    
-  
-
-
-
-
-
   
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://lirondos.github.io/files/scil2021_poster.pdf" target="_blank" rel="noopener">
-  Slides
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/lirondos/coalas" target="_blank" rel="noopener">
+  Code
 </a>
+
+
+
+
+  
+    
+  
+
+
+
+
 
 
 
@@ -588,7 +593,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">In this work, we present: (1) a corpus of European Spanish newswire annotated with anglicisms; (2) a sequence labeling model to extract English lexical borrowings (or anglicisms) from Spanish newswire; and (3) a tracking corpus of anglicism usage in the Spanish press.</p>
+    <p class="pub-abstract" itemprop="text">This work presents a new resource for borrowing identification and analyzes the performance and errors of several models on this task. We introduce a new annotated corpus of Spanish newswire rich in unassimilated lexical borrowings—words from one language that are introduced into another without orthographic adaptation—and use it to evaluate how several sequence labeling models (CRF, BiLSTM-CRF, and Transformer-based models) perform. The corpus contains 370,000 tokens and is larger, more borrowing-dense, OOV-rich, and topic-varied than previous corpora available for this task. Our results show that a BiLSTM-CRF model fed with subword embeddings along with either Transformerbased embeddings pretrained on codeswitched data or a combination of contextualized word embeddings outperforms results obtained by a multilingual BERT-based model.</p>
     
 
     
@@ -620,7 +625,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Proceedings of the Society for Computation in Linguistics (SCiL 2021): Vol. 4 , Article 41</div>
+          <div class="col-12 col-md-9">To be presented at Association of Computational Linguistics 2022 (ACL 2022)</div>
         </div>
       </div>
       <div class="col-md-1"></div>

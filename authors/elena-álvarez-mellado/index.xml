@@ -1,34 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elena Álvarez-Mellado on Elena Álvarez Mellado</title>
+    <title>Elena Álvarez Mellado</title>
     <link>/authors/elena-%C3%A1lvarez-mellado/</link>
-    <description>Recent content in Elena Álvarez-Mellado on Elena Álvarez Mellado</description>
+    <description>Recent content on Elena Álvarez Mellado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/authors/elena-%C3%A1lvarez-mellado/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Extracting English Lexical Borrowings from Spanish Newswire</title>
-      <link>/publication/scil/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0100</pubDate>
+      <title>Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling</title>
+      <link>/publication/coalas/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0200</pubDate>
       
-      <guid>/publication/scil/</guid>
+      <guid>/publication/coalas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Two models for Named Entity Recognition in Spanish: submission for the CAPITEL Shared Task at IberLEF 2020</title>
-      <link>/publication/iberlef/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      <title>Overview of ADoBo 2021: Automatic Detection of Unassimilated Borrowings in the Spanish Press</title>
+      <link>/publication/iberlef2021/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0200</pubDate>
       
-      <guid>/publication/iberlef/</guid>
+      <guid>/publication/iberlef2021/</guid>
       <description></description>
     </item>
     
+  </channel>
+</rss>
     <item>
       <title>An Annotated Corpus of Emerging Anglicisms in Spanish Newspaper Headlines</title>
       <link>/publication/anglicisms/</link>

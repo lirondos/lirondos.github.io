@@ -10,6 +10,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling</title>
+      <link>/publication/coalas/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/coalas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Trabalengua 2021: Cosas que aprendí mirando 200.000 anglicismos</title>
       <link>/talk/trabalengua2021/</link>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0200</pubDate>
@@ -132,15 +141,6 @@
       <pubDate>Fri, 01 May 2020 00:00:00 +0200</pubDate>
       
       <guid>/project/lazaro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Annotated Corpus of Emerging Anglicisms in Spanish Newspaper Headlines</title>
-      <link>/publication/anglicisms/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/anglicisms/</guid>
       <description></description>
     </item>
     
