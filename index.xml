@@ -10,11 +10,47 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling</title>
-      <link>/publication/coalas/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0200</pubDate>
+      <title>Borrowing or Codeswitching? Annotating for Finer-Grained Distinctions in Language Mixing</title>
+      <link>/publication/lrec2022/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>/publication/coalas/</guid>
+      <guid>/publication/lrec2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling</title>
+      <link>/publication/acl2022/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/acl2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COALAS 🐨</title>
+      <link>/project/coalas/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/project/coalas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observatorio Lázaro</title>
+      <link>/project/observatoriolazaro/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/project/observatoriolazaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>@LazaroBot</title>
+      <link>/project/lazarobot/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/project/lazarobot/</guid>
       <description></description>
     </item>
     
@@ -105,42 +141,6 @@
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
       
       <guid>/project/caravaggio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Morssa</title>
-      <link>/project/morssa/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/project/morssa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Podcast: Interview at Con la lengua fuera</title>
-      <link>/talk/conlalenguafuera/</link>
-      <pubDate>Thu, 10 Sep 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/talk/conlalenguafuera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two models for Named Entity Recognition in Spanish: submission for the CAPITEL Shared Task at IberLEF 2020</title>
-      <link>/publication/iberlef/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/iberlef/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lázaro: An Extractor of Emergent Anglicisms in Spanish Newswire</title>
-      <link>/publication/lazaro/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/lazaro/</guid>
       <description></description>
     </item>
     

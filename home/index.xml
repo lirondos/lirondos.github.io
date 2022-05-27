@@ -75,11 +75,11 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
+      <title>Publications</title>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
@@ -93,11 +93,11 @@
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/home/publications/</link>
+      <title>Projects</title>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     

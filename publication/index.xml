@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling</title>
-      <link>/publication/coalas/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0200</pubDate>
+      <title>Borrowing or Codeswitching? Annotating for Finer-Grained Distinctions in Language Mixing</title>
+      <link>/publication/lrec2022/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0200</pubDate>
       
-      <guid>/publication/coalas/</guid>
+      <guid>/publication/lrec2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling</title>
+      <link>/publication/acl2022/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/acl2022/</guid>
       <description></description>
     </item>
     
