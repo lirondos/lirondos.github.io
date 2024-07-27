@@ -48,20 +48,20 @@
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Talks &amp; media appearances</title>
       <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/experience/</guid>
       <description></description>
     </item>
     
