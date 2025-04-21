@@ -4,6 +4,38 @@
     
     <url>
     
+      <loc>/talk/serendipias/</loc>
+      <lastmod>2025-04-14T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/real_academia_ciencia/</loc>
+      <lastmod>2025-02-24T18:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/adobo/</loc>
+      <lastmod>2025-02-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/sepln2024/</loc>
+      <lastmod>2024-09-25T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/lrec2024/</loc>
       <lastmod>2024-05-25T00:00:00+02:00</lastmod>
     </url>
@@ -140,14 +172,6 @@
     
     <url>
     
-      <loc>/project/adobo/</loc>
-      <lastmod>2021-02-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/talk/cope/</loc>
       <lastmod>2020-11-02T00:00:00+01:00</lastmod>
     </url>
@@ -172,7 +196,7 @@
     
     <url>
     
-      <loc>/project/caravaggio/</loc>
+      <loc>/old_projects/caravaggio/</loc>
       <lastmod>2020-10-01T00:00:00+02:00</lastmod>
     </url>
     
@@ -180,7 +204,7 @@
     
     <url>
     
-      <loc>/project/morssa/</loc>
+      <loc>/old_projects/morssa/</loc>
       <lastmod>2020-09-30T00:00:00+02:00</lastmod>
     </url>
     
@@ -244,7 +268,7 @@
     
     <url>
     
-      <loc>/project/ner4podcasts/</loc>
+      <loc>/old_projects/ner4podcasts/</loc>
       <lastmod>2019-12-20T00:00:00+01:00</lastmod>
     </url>
     
@@ -260,7 +284,7 @@
     
     <url>
     
-      <loc>/project/figurativelanguage/</loc>
+      <loc>/old_projects/figurativelanguage/</loc>
       <lastmod>2019-05-31T00:00:00+02:00</lastmod>
     </url>
     
@@ -412,7 +436,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2024-05-25T00:00:00+02:00</lastmod>
+      <lastmod>2024-09-25T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -518,7 +542,7 @@
     <url>
     
       <loc>/authors/elena-%C3%A1lvarez-mellado/</loc>
-      <lastmod>2021-02-10T00:00:00+01:00</lastmod>
+      <lastmod>2024-09-25T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -555,6 +579,15 @@
     
       <loc>/authors/jordi-porta-zamorano/</loc>
       <lastmod>2021-09-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/julio-gonzalo/</loc>
+      <lastmod>2024-09-25T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -616,6 +649,15 @@
     
     <url>
     
+      <loc>/old_projects/</loc>
+      <lastmod>2020-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/philip-cawkwell/</loc>
       <lastmod>2019-08-10T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -626,7 +668,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2022-07-29T00:00:00+02:00</lastmod>
+      <lastmod>2025-02-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -635,7 +677,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2024-05-25T00:00:00+02:00</lastmod>
+      <lastmod>2024-09-25T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
