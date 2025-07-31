@@ -6,10 +6,19 @@
     <description>Recent content in Julio Gonzalo on Elena Álvarez Mellado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/authors/julio-gonzalo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Detecting Evaluating Sequence Labeling on the basis of Information Theory</title>
+      <link>/publication/acl2025_1/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/acl2025_1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Characterizing Spans for Sequence Labeling: A Case on Anglicism Detection</title>

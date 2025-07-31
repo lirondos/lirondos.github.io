@@ -4,6 +4,38 @@
     
     <url>
     
+      <loc>/publication/iberlef2025/</loc>
+      <lastmod>2025-07-31T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/acl2025_1/</loc>
+      <lastmod>2025-06-30T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/acl2025_2/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/tesis/</loc>
+      <lastmod>2025-05-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/serendipias/</loc>
       <lastmod>2025-04-14T00:00:00+02:00</lastmod>
     </url>
@@ -436,7 +468,7 @@
     <url>
     
       <loc>/publication_types/1/</loc>
-      <lastmod>2024-09-25T00:00:00+02:00</lastmod>
+      <lastmod>2025-07-31T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -454,7 +486,25 @@
     <url>
     
       <loc>/publication_types/4/</loc>
-      <lastmod>2020-05-15T00:00:00+02:00</lastmod>
+      <lastmod>2025-05-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/alessia-battisti/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/anastassia-shaitarova/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -471,6 +521,24 @@
     
     <url>
     
+      <loc>/authors/andrianos-michail/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/anne-g%C3%B6hring/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/</loc>
       <priority>0</priority>
     </url>
@@ -480,7 +548,7 @@
     <url>
     
       <loc>/authors/</loc>
-      <lastmod>2024-05-25T00:00:00+02:00</lastmod>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -497,7 +565,16 @@
     <url>
     
       <loc>/authors/constatine-lignos/</loc>
-      <lastmod>2024-05-25T00:00:00+02:00</lastmod>
+      <lastmod>2025-07-31T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/cui-ding/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -533,7 +610,7 @@
     <url>
     
       <loc>/authors/elena-%C3%A1lvarez-mellado/</loc>
-      <lastmod>2024-05-25T00:00:00+02:00</lastmod>
+      <lastmod>2025-07-31T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -542,7 +619,7 @@
     <url>
     
       <loc>/authors/elena-%C3%A1lvarez-mellado/</loc>
-      <lastmod>2024-09-25T00:00:00+02:00</lastmod>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -552,6 +629,15 @@
     
       <loc>/authors/elena-%C3%A1lvarez-mellado.-advisor-constantine-lignos/</loc>
       <lastmod>2020-05-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/enrique-amig%C3%B3/</loc>
+      <lastmod>2025-06-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -577,8 +663,26 @@
     
     <url>
     
+      <loc>/authors/joel-niklaus/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/jordi-porta-zamorano/</loc>
-      <lastmod>2021-09-20T00:00:00+02:00</lastmod>
+      <lastmod>2025-07-31T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jorge-carrillo-de-albornoz/</loc>
+      <lastmod>2025-06-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -587,7 +691,7 @@
     <url>
     
       <loc>/authors/julio-gonzalo/</loc>
-      <lastmod>2024-09-25T00:00:00+02:00</lastmod>
+      <lastmod>2025-06-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -596,7 +700,16 @@
     <url>
     
       <loc>/authors/julio-gonzalo-arroyo/</loc>
-      <lastmod>2021-09-20T00:00:00+02:00</lastmod>
+      <lastmod>2025-07-31T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/juri-opitz/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -631,8 +744,26 @@
     
     <url>
     
+      <loc>/authors/maria-christina-panagiotopoulou/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/mei-hua-hall/</loc>
       <lastmod>2019-08-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/micha-david-hess/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -651,6 +782,15 @@
     
       <loc>/old_projects/</loc>
       <lastmod>2020-10-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/peshmerge-morad/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -677,7 +817,34 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2024-09-25T00:00:00+02:00</lastmod>
+      <lastmod>2025-07-31T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/rico-sennrich/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sina-ahmadi/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/stefano-perrella/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -687,6 +854,24 @@
     
       <loc>/tags/</loc>
       <lastmod>2022-07-29T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/yingqiang-gao/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/zifan-jiang/</loc>
+      <lastmod>2025-06-28T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

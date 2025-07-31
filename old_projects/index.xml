@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Old_projects on Elena Álvarez Mellado</title>
+    <link>/old_projects/</link>
+    <description>Recent content in Old_projects on Elena Álvarez Mellado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/old_projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Caravaggio</title>
+      <link>/old_projects/caravaggio/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/old_projects/caravaggio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morssa</title>
+      <link>/old_projects/morssa/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/old_projects/morssa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NER4Podcasts</title>
+      <link>/old_projects/ner4podcasts/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/old_projects/ner4podcasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Figurative language classification</title>
+      <link>/old_projects/figurativelanguage/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/old_projects/figurativelanguage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

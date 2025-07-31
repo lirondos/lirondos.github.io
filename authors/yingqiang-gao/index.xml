@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yingqiang Gao on Elena Álvarez Mellado</title>
+    <link>/authors/yingqiang-gao/</link>
+    <description>Recent content in Yingqiang Gao on Elena Álvarez Mellado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/yingqiang-gao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ConLoan: A Contrastive Multilingual Dataset for Evaluating Loanwords.</title>
+      <link>/publication/acl2025_2/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/acl2025_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
