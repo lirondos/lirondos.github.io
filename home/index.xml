@@ -21,6 +21,24 @@
     </item>
     
     <item>
+      <title>¡Hola!</title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_featured/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/publications_featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Academic</title>
       <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
@@ -30,11 +48,30 @@
     </item>
     
     <item>
-      <title>¡Hola!</title>
-      <link>/home/about/</link>
+      <title>Projects</title>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing &amp; dissemination</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>I occasionally write a column about language for Spanish newspaper elDiario.es, a column that was awarded with the Miguel Delibes National Journalism Award (Premio Nacional de Periodismo Miguel Delibes) in 2017 for an article about conceptual metaphor and cancer (Metáforas peligrosas. El cáncer como lucha).
+I am also a member of the editorial board and a contributor for Archiletras, a pop Linguistics magazine where I have written several columns and interviewed leading figures in Linguistics, such as Ignacio Bosque, Juan Carlos Moreno Cabrera, Felisa Verdejo, Olimpia Andrés, Gretchen McCulloch and Noam Chomsky.</description>
+    </item>
+    
+    <item>
+      <title>Talks &amp; media appearances</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
@@ -48,29 +85,11 @@
     </item>
     
     <item>
-      <title>Talks &amp; media appearances</title>
-      <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Experience</title>
       <link>/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/home/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Featured Publications</title>
-      <link>/home/publications_featured/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/publications_featured/</guid>
       <description></description>
     </item>
     
@@ -93,32 +112,12 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recent Posts</title>
       <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/posts/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Writing &amp; dissemination</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>I occasionally write a column about language for Spanish newspaper elDiario.es, a column that was awarded with the Miguel Delibes National Journalism Award (Premio Nacional de Periodismo Miguel Delibes) in 2017 for an article about conceptual metaphor and cancer (Metáforas peligrosas. El cáncer como lucha).
-I also write for Archiletras, a pop Linguistics magazine where I&amp;rsquo;m also member of the editorial board.
-In 2016 I wrote the pop linguistics book Anatomía de la Lengua.</description>
     </item>
     
     <item>

@@ -6,10 +6,19 @@
     <description>Recent content in Demo on Elena Álvarez Mellado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Observatorio Lázaro</title>
+      <link>/project/observatoriolazaro/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0100</pubDate>
+      
+      <guid>/project/observatoriolazaro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>pylazaro</title>
@@ -26,15 +35,6 @@
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
       
       <guid>/project/coalas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Observatorio Lázaro</title>
-      <link>/project/observatoriolazaro/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
-      
-      <guid>/project/observatoriolazaro/</guid>
       <description></description>
     </item>
     
@@ -76,10 +76,10 @@
     
     <item>
       <title>Subtitles Corpus</title>
-      <link>/project/subtitles/</link>
+      <link>/old_projects/subtitles/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
       
-      <guid>/project/subtitles/</guid>
+      <guid>/old_projects/subtitles/</guid>
       <description></description>
     </item>
     
