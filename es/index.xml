@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elena Álvarez Mellado on Elena Álvarez Mellado</title>
+    <link>/es/</link>
+    <description>Recent content in Elena Álvarez Mellado on Elena Álvarez Mellado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/es/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Towards a Diagnostic and Predictive Evaluation Methodology for Sequence Labeling Tasks</title>
+      <link>/es/publication/lrec2026/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/lrec2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observatorio Lázaro</title>
+      <link>/es/project/observatoriolazaro/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0100</pubDate>
+      
+      <guid>/es/project/observatoriolazaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of ADoBo at IberLEF 2025: Automatic Detection of Anglicisms in Spanish</title>
+      <link>/es/publication/iberlef2025/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/iberlef2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Sequence Labeling on the basis of Information Theory</title>
+      <link>/es/publication/acl2025_1/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/acl2025_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConLoan: A Contrastive Multilingual Dataset for Evaluating Loanwords.</title>
+      <link>/es/publication/acl2025_2/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/acl2025_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entrevista en Cadena SER</title>
+      <link>/es/talk/serendipias/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/es/talk/serendipias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lenguaje: entre computación y cognición</title>
+      <link>/es/talk/real_academia_ciencia/</link>
+      <pubDate>Mon, 24 Feb 2025 18:00:00 +0100</pubDate>
+      
+      <guid>/es/talk/real_academia_ciencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADoBo</title>
+      <link>/es/project/adobo/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0100</pubDate>
+      
+      <guid>/es/project/adobo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitalización e inteligencia artificial</title>
+      <link>/es/talk/fondosue/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0200</pubDate>
+      
+      <guid>/es/talk/fondosue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Kilgarriff Lecture en eLex 2023</title>
+      <link>/es/talk/elex2023/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/es/talk/elex2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socia de honor de Asetrad: discurso de aceptación</title>
+      <link>/es/talk/asetrad/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/es/talk/asetrad/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/eEFRNctn0dc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>pylazaro</title>
+      <link>/es/project/pylazaro/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/es/project/pylazaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling</title>
+      <link>/es/publication/acl2022/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/acl2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COALAS 🐨</title>
+      <link>/es/project/coalas/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/es/project/coalas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>@LazaroBot</title>
+      <link>/es/project/lazarobot/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/es/project/lazarobot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

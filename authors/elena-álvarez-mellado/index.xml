@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>La detección de préstamos léxicos como un problema de etiquetado de secuencias: datos, modelos y métodos de evaluación para la recuperación de anglicismos en castellano</title>
+      <link>/publication/sepln2026/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/sepln2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Overview of ADoBo at IberLEF 2025: Automatic Detection of Anglicisms in Spanish</title>
       <link>/publication/iberlef2025/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0200</pubDate>
@@ -35,6 +44,33 @@
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0200</pubDate>
       
       <guid>/publication/acl2025_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConLoan: A Contrastive Multilingual Dataset for Evaluating Loanwords.</title>
+      <link>/publication/acl2025_2/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/acl2025_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical borrowing detection as a sequence labeling task. Data, modeling and evaluation methods for anglicism retrieval in Spanish</title>
+      <link>/publication/tesis/</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/tesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Spans for Sequence Labeling: A Case on Anglicism Detection</title>
+      <link>/publication/sepln2024/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/sepln2024/</guid>
       <description></description>
     </item>
     
@@ -74,8 +110,28 @@
       <description></description>
     </item>
     
-  </channel>
-</rss>100</pubDate>
+    <item>
+      <title>Extracting English Lexical Borrowings from Spanish Newswire</title>
+      <link>/publication/scil/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/scil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two models for Named Entity Recognition in Spanish: submission for the CAPITEL Shared Task at IberLEF 2020</title>
+      <link>/publication/iberlef/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/iberlef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Annotated Corpus of Emerging Anglicisms in Spanish Newspaper Headlines</title>
+      <link>/publication/anglicisms/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0100</pubDate>
       
       <guid>/publication/anglicisms/</guid>
       <description></description>

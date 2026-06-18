@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Elena Álvarez Mellado</title>
+    <link>/es/talk/</link>
+    <description>Recent content in Talks on Elena Álvarez Mellado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/es/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Entrevista en Cadena SER</title>
+      <link>/es/talk/serendipias/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/es/talk/serendipias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lenguaje: entre computación y cognición</title>
+      <link>/es/talk/real_academia_ciencia/</link>
+      <pubDate>Mon, 24 Feb 2025 18:00:00 +0100</pubDate>
+      
+      <guid>/es/talk/real_academia_ciencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digitalización e inteligencia artificial</title>
+      <link>/es/talk/fondosue/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0200</pubDate>
+      
+      <guid>/es/talk/fondosue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Kilgarriff Lecture en eLex 2023</title>
+      <link>/es/talk/elex2023/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/es/talk/elex2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socia de honor de Asetrad: discurso de aceptación</title>
+      <link>/es/talk/asetrad/</link>
+      <pubDate>Sat, 13 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>/es/talk/asetrad/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

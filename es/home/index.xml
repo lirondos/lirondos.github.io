@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Elena Álvarez Mellado</title>
+    <link>/es/home/</link>
+    <description>Recent content in Homes on Elena Álvarez Mellado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/es/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¡Hola!</title>
+      <link>/es/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/es/home/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publicaciones seleccionadas</title>
+      <link>/es/home/publications_featured/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/es/home/publications_featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proyectos</title>
+      <link>/es/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/es/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divulgación</title>
+      <link>/es/home/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/home/writing/</guid>
+      <description>Dedico parte de mi tiempo a la divulgación, con el objetivo de acercar la Lingüística al público general. Colaboro habitualmente con el periódico elDiario.es y con la revista divulgativa Archiletras. En 2016 publiqué el libro de divulgación Anatomía de la Lengua (Larousse, 2016). Entre 2012 y 2015, fui colaboradora en Radio Nacional de España con una sección semanal sobre lengua en el programa La noche en vela. Como tantos, escribí durante un tiempo un blog, que hoy anda en horas bajas.</description>
+    </item>
+    
+    <item>
+      <title>Charlas y apariciones en medios</title>
+      <link>/es/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/es/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiencia</title>
+      <link>/es/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Talks</title>
+      <link>/es/home/talks_featured/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/es/home/talks_featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Becas y premios</title>
+      <link>/es/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>/es/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/es/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

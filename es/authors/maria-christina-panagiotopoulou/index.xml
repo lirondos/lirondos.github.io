@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Christina Panagiotopoulou on Elena Álvarez Mellado</title>
+    <link>/es/authors/maria-christina-panagiotopoulou/</link>
+    <description>Recent content in Maria Christina Panagiotopoulou on Elena Álvarez Mellado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/es/authors/maria-christina-panagiotopoulou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ConLoan: A Contrastive Multilingual Dataset for Evaluating Loanwords.</title>
+      <link>/es/publication/acl2025_2/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/acl2025_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

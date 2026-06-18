@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Elena Álvarez Mellado</title>
+    <link>/es/tags/demo/</link>
+    <description>Recent content in Demo on Elena Álvarez Mellado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/es/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Observatorio Lázaro</title>
+      <link>/es/project/observatoriolazaro/</link>
+      <pubDate>Wed, 31 Dec 2025 00:00:00 +0100</pubDate>
+      
+      <guid>/es/project/observatoriolazaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pylazaro</title>
+      <link>/es/project/pylazaro/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/es/project/pylazaro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COALAS 🐨</title>
+      <link>/es/project/coalas/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/es/project/coalas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>@LazaroBot</title>
+      <link>/es/project/lazarobot/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/es/project/lazarobot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discursos de Navidad</title>
+      <link>/es/project/orgulloysatisfa/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/es/project/orgulloysatisfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aracne</title>
+      <link>/es/project/aracne/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/es/project/aracne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AZRAEL</title>
+      <link>/es/project/azrael/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0200</pubDate>
+      
+      <guid>/es/project/azrael/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

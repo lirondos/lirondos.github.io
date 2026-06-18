@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge Carrillo De Albornoz on Elena Álvarez Mellado</title>
+    <link>/es/authors/jorge-carrillo-de-albornoz/</link>
+    <description>Recent content in Jorge Carrillo De Albornoz on Elena Álvarez Mellado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/es/authors/jorge-carrillo-de-albornoz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluating Sequence Labeling on the basis of Information Theory</title>
+      <link>/es/publication/acl2025_1/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/acl2025_1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

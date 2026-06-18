@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Elena Álvarez Mellado</title>
+    <link>/es/publication/</link>
+    <description>Recent content in Publications on Elena Álvarez Mellado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/es/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards a Diagnostic and Predictive Evaluation Methodology for Sequence Labeling Tasks</title>
+      <link>/es/publication/lrec2026/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/lrec2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of ADoBo at IberLEF 2025: Automatic Detection of Anglicisms in Spanish</title>
+      <link>/es/publication/iberlef2025/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/iberlef2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Sequence Labeling on the basis of Information Theory</title>
+      <link>/es/publication/acl2025_1/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/acl2025_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConLoan: A Contrastive Multilingual Dataset for Evaluating Loanwords.</title>
+      <link>/es/publication/acl2025_2/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/acl2025_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Unassimilated Borrowings in Spanish: An Annotated Corpus and Approaches to Modeling</title>
+      <link>/es/publication/acl2022/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0200</pubDate>
+      
+      <guid>/es/publication/acl2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
