@@ -667,11 +667,20 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/authors/constatine-lignos/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/es/authors/constatine-lignos/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="/authors/constantine-lignos/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/authors/constantine-lignos/" hreflang="es"/>
+    
+      <loc>/authors/constantine-lignos/</loc>
+      <lastmod>2025-07-31T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
     
       <loc>/authors/constatine-lignos/</loc>
-      <lastmod>2025-07-31T00:00:00+02:00</lastmod>
+      <lastmod>2024-05-25T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     

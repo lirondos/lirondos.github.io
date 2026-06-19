@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Constantine Lignos on Elena Álvarez Mellado</title>
+    <link>/authors/constantine-lignos/</link>
+    <description>Recent content in Constantine Lignos on Elena Álvarez Mellado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/constantine-lignos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Overview of ADoBo at IberLEF 2025: Automatic Detection of Anglicisms in Spanish</title>
+      <link>/publication/iberlef2025/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/iberlef2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
