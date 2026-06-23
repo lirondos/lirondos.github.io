@@ -67,6 +67,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/publication/tesis/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication/tesis/" hreflang="es"/>
+    
       <loc>/publication/tesis/</loc>
       <lastmod>2025-05-27T00:00:00+02:00</lastmod>
     </url>
@@ -566,6 +569,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/es/publication_types/4/" hreflang="es"/>
     
       <loc>/publication_types/4/</loc>
       <lastmod>2025-05-27T00:00:00+02:00</lastmod>
